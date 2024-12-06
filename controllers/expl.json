@@ -1,0 +1,188 @@
+{
+  "listapruebas": [
+    {
+      "TestName": "% HB GLICOSILADA",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "AC. ANTI CHAGAS",
+      "RegisterDateCounts": []
+    },
+    {
+      "TestName": "ACIDO URICO",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "AG. CARCINOEMBRIONARIO",
+      "RegisterDateCounts": []
+    },
+    {
+      "TestName": "ALBUMINA",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 2
+        }
+      ]
+    },
+    {
+      "TestName": "ALFAFETOPROTEINA",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-07",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "ALT / TGP",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "AMILASA",
+      "RegisterDateCounts": []
+    },
+    {
+      "TestName": "ANTI PEPTIDO CITRULINADO",
+      "RegisterDateCounts": []
+    },
+    {
+      "TestName": "ANTICUERPOS ANTINUCLEARES",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-03",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-07",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "AST / TGO",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "ASTO CUANTITATIVO",
+      "RegisterDateCounts": []
+    },
+    {
+      "TestName": "BACILOSCOPIA (TUBERCULOSI",
+      "RegisterDateCounts": []
+    },
+    {
+      "TestName": "BILIRRUBINA DIRECTA",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "BILIRRUBINA INDIRECTA",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "BILIRRUBINA TOTAL",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 1
+        }
+      ]
+    },
+    {
+      "TestName": "BIOMETRIA HEMATICA",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-01",
+          "Count": 69
+        },
+        {
+          "RegisterDate": "2023-07-02",
+          "Count": 55
+        },
+        {
+          "RegisterDate": "2023-07-03",
+          "Count": 100
+        },
+        {
+          "RegisterDate": "2023-07-04",
+          "Count": 134
+        },
+        {
+          "RegisterDate": "2023-07-05",
+          "Count": 116
+        },
+        {
+          "RegisterDate": "2023-07-06",
+          "Count": 116
+        },
+        {
+          "RegisterDate": "2023-07-07",
+          "Count": 97
+        }
+      ]
+    },
+    {
+      "TestName": "C.A 125",
+      "RegisterDateCounts": [
+        {
+          "RegisterDate": "2023-07-03",
+          "Count": 1
+        },
+        {
+          "RegisterDate": "2023-07-05",
+          "Count": 1
+        }
+      ]
+    }
+  ]
+}

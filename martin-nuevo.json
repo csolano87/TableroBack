@@ -1,0 +1,868 @@
+[
+  {
+    "SampleID": "2308260001",
+    "RegisterYear": "72616",
+    "RegisterDate": "2023-08-26",
+    "RegisterHour": "20:10:16Z",
+    "Doctor": "17563834",
+    "DoctorDesc": "ABREU RUIZ MARTA",
+    "Service": "1570",
+    "ServiceDesc": "ANESTESIOL.DOLOR(HO)",
+    "Origin": "0",
+    "OriginDesc": "ANEXO",
+    "Use": "5",
+    "OptionalDemogList": {
+      "LISElementValue": {
+        "Name": "HIS",
+        "Value": "BLUELAB"
+      }
+    },
+    "LabTests": {
+      "LISLabTest": [
+        {
+          "TestID": "2001",
+          "TestAbbreviation": "WBC",
+          "TestName": "GLOBULOS BLANCOS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "5",
+              "High": "10",
+              "SequenceNumber": "0",
+              "ValueResult": "8",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:17",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2001",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2002",
+          "TestAbbreviation": "NEUT",
+          "TestName": "NEUTROFILOS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "1.78",
+              "High": "5.38",
+              "SequenceNumber": "0",
+              "ValueResult": "4",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2017",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2003",
+          "TestAbbreviation": "LYMPH",
+          "TestName": "LINFOCITOS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "1.32",
+              "High": "3.57",
+              "SequenceNumber": "0",
+              "ValueResult": "2",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2018",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2004",
+          "TestAbbreviation": "MONO",
+          "TestName": "MONOCITOS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": ".3",
+              "High": ".82",
+              "SequenceNumber": "0",
+              "ValueResult": ".2",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "1",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2019",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2005",
+          "TestAbbreviation": "EO",
+          "TestName": "EOSINOFILOS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": ".04",
+              "High": ".54",
+              "SequenceNumber": "0",
+              "ValueResult": ".1",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2020",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2006",
+          "TestAbbreviation": "BASO",
+          "TestName": "BASOFILOS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": ".01",
+              "High": ".08",
+              "SequenceNumber": "0",
+              "ValueResult": ".1",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "2",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2021",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2007",
+          "TestAbbreviation": "NEUT%",
+          "TestName": "NEUTROFILOS %",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "34",
+              "High": "67.9",
+              "SequenceNumber": "0",
+              "ValueResult": "35",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2012",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2008",
+          "TestAbbreviation": "LYMPH%",
+          "TestName": "LINFOCITOS %",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "21.8",
+              "High": "53.1",
+              "SequenceNumber": "0",
+              "ValueResult": "25",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2013",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2009",
+          "TestAbbreviation": "MONO%",
+          "TestName": "MONOCITOS %",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "5.3",
+              "High": "12.2",
+              "SequenceNumber": "0",
+              "ValueResult": "8",
+              "ValueResultHour": "20:37:11Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2014",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2010",
+          "TestAbbreviation": "EO%",
+          "TestName": "EOSINOFILOS %",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": ".8",
+              "High": "7",
+              "SequenceNumber": "0",
+              "ValueResult": "5",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:03Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:03Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2015",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2011",
+          "TestAbbreviation": "BASO%",
+          "TestName": "BASOFILOS %",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": ".2",
+              "High": "1.2",
+              "SequenceNumber": "0",
+              "ValueResult": "1",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2016",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2012",
+          "TestAbbreviation": "RBC",
+          "TestName": "RECUENTO DE G. ROJOS",
+          "PrimaryUnit": "M/uL      ",
+          "DecPrimaryUnit": "2",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "4.63",
+              "High": "6.08",
+              "SequenceNumber": "0",
+              "ValueResult": "5",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2002",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2015",
+          "TestAbbreviation": "HB",
+          "TestName": "HEMOGLOBINA",
+          "PrimaryUnit": "g/dl      ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "PanicLow": "6",
+              "Low": "13.7",
+              "High": "17.5",
+              "PanicHigh": "21",
+              "SequenceNumber": "0",
+              "ValueResult": "15",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2003",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2018",
+          "TestAbbreviation": "HTO",
+          "TestName": "HEMATOCRITO",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "40.1",
+              "High": "51",
+              "SequenceNumber": "0",
+              "ValueResult": "42",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2004",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2021",
+          "TestAbbreviation": "VCM",
+          "TestName": "VOLUMEN CORPUSCULAR MEDIO",
+          "PrimaryUnit": "fl        ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "79",
+              "High": "92.2",
+              "SequenceNumber": "0",
+              "ValueResult": "80",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2005",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2024",
+          "TestAbbreviation": "HCM",
+          "TestName": "HB CORPUSCULAR MEDIA",
+          "PrimaryUnit": "pg        ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "25.6",
+              "High": "32.2",
+              "SequenceNumber": "0",
+              "ValueResult": "28",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2006",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2027",
+          "TestAbbreviation": "CHCM",
+          "TestName": "CONCENT. HB CORPUSCULAR MEDIA",
+          "PrimaryUnit": "g/dl      ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "33",
+              "High": "36",
+              "SequenceNumber": "0",
+              "ValueResult": "25",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "1",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2007",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2029",
+          "TestAbbreviation": "RDWSD",
+          "TestName": "ANCHO DE DISTRIBUCION DE G.R. S.D.",
+          "PrimaryUnit": "fl        ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "35.1",
+              "High": "43.9",
+              "SequenceNumber": "0",
+              "ValueResult": "25",
+              "ValueResultHour": "20:36:48Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "1",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2009",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2030",
+          "TestAbbreviation": "RDWCV",
+          "TestName": "ANCHO DE DISTRIBUCION DE G.R. C.V.%",
+          "PrimaryUnit": "%         ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "12.5",
+              "High": "14.6",
+              "SequenceNumber": "0",
+              "ValueResult": "12",
+              "ValueResultHour": "20:36:47Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "1",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2010",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2033",
+          "TestAbbreviation": "PLT",
+          "TestName": "PLAQUETAS",
+          "PrimaryUnit": "x10³/ul",
+          "DecPrimaryUnit": "0",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "150",
+              "High": "450",
+              "SequenceNumber": "0",
+              "ValueResult": "200",
+              "ValueResultHour": "20:36:47Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2008",
+          "Printable": "true",
+          "HasOptionals": "false"
+        },
+        {
+          "TestID": "2036",
+          "TestAbbreviation": "VMP",
+          "TestName": "VOLUMEN MEDIO PLAQUETARIO",
+          "PrimaryUnit": "fl        ",
+          "DecPrimaryUnit": "1",
+          "LabResults": {
+            "LISLabResult": {
+              "Low": "9.4",
+              "High": "12.4",
+              "SequenceNumber": "0",
+              "ValueResult": "10",
+              "ValueResultHour": "20:36:46Z",
+              "ValueResultDate": "2023-08-26",
+              "TechValUser": "ROCHE",
+              "TechValHour": "20:39:04Z",
+              "TechValDate": "2023-08-26",
+              "TechValStatus": "1",
+              "CliValUser": "ROCHE",
+              "CliValHour": "20:39:04Z",
+              "CliValDate": "2023-08-26",
+              "CliValStatus": "1",
+              "InfStatus": "0",
+              "PathologicMark": "0",
+              "PanicMark": "0",
+              "DeltaCheckMark": "0"
+            }
+          },
+          "RegisterDate": "2023-08-26",
+          "RegisterHour": "20:10:18",
+          "TestStatus": "4",
+          "VersionComment": {
+            "LISComments": {
+              "AddEvent": "1"
+            }
+          },
+          "PrintOrder": "2011",
+          "Printable": "true",
+          "HasOptionals": "false"
+        }
+      ]
+    },
+    "HasMicroTests": "false"
+  }
+]
